@@ -1,0 +1,23 @@
+{
+    "trailing"  : false,
+    "sub"       : true,
+    "laxcomma"  : true,
+    "bitwise"   : true,
+    "nonew"     : true,
+    "undef"     : true,
+    "node"      : true,
+    "eqnull"    : true,
+    "jquery"    : true,
+    "strict"    : true,
+    "quotmark"  : false,
+    "unused"    : false,
+    "node"      : true,
+    "predef"   : [
+        "define",
+        "require",
+        "describe",
+        "it"
+    ],
+    "devel": true,
+    "expr": true
+}
